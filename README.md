@@ -1,2 +1,1 @@
-# Image Deblurring
- Deblur GAN
+###Image Deblurring
